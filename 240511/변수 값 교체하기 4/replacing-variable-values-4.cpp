@@ -3,6 +3,6 @@
 int main() {
     int a = 7;
     a = 4;
-    cout << a;
+    std::cout << a;
     return 0;
 }
